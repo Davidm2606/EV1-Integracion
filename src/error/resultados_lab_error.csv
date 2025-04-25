@@ -1,0 +1,4 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+4,4001,Glucosa,,2025-04-22
+4,,Colesterol,180,2025-04-22
+4,4003,Hemocultivo,Positivo,2025-13-45

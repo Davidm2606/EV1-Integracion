@@ -1,0 +1,5 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+2,2001,Hemocultivo,Positivo,2025-04-20
+2,2002,Glucosa,130,2025-04-20
+2,2003,Triglicéridos,150,2025-04-20
+2,2004,Colesterol,210,2025-04-20

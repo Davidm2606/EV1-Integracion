@@ -1,0 +1,3 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,1001,Hemocultivo,Negativo,2025-04-23
+2,1002,Glucosa,120,2025-04-22

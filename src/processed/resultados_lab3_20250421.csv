@@ -1,0 +1,6 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+3,3001,Hemocultivo,Negativo,2025-04-21
+3,3002,Colesterol,180,2025-04-21
+3,3003,Glucosa,125,2025-04-21
+3,3004,Triglicéridos,140,2025-04-21
+3,3005,Colesterol,200,2025-04-21

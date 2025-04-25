@@ -1,0 +1,4 @@
+laboratorio_id,paciente_id,tipo_examen,resultado,fecha_examen
+1,1001,Glucosa,115,2025-04-21
+1,1004,Hemocultivo,Negativo,2025-04-21
+1,1005,Triglicéridos,160,2025-04-21
